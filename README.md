@@ -2,10 +2,7 @@
 
 ## Project: Bearer Auth
 
-### Author: Racharl Rice
-
-### Links and Resources
-- [back-end server url](http://xyz.com) (when applicable)
+### Author: Rachael Rice
 
 ### Setup
 
