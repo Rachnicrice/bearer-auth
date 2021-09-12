@@ -5,6 +5,7 @@
 ### Author: Rachael Rice
 
 ### Setup
+[Deployment Link](https://rl-bearer-auth.herokuapp.com/)
 
 #### `.env` requirements (where applicable)
 - `PORT` - Port Number
